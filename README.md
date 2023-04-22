@@ -13,3 +13,12 @@
 
 ![Screenshot (290)](https://user-images.githubusercontent.com/97075043/233764181-35ca90bc-5e72-4ac2-8fc1-1d4f47f2ffac.png)
 
+### Used Languages
+* C#
+
+### Used Technologies & Frameworks
+* Visual Studion .Net Framework
+
+## Thank you 😃
+
+If you like this project just click ⭐ and share it with others.
