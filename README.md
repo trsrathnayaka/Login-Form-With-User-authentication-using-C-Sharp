@@ -2,5 +2,4 @@
 
 ### ScreenShot
 
-![Uploading Screenshot (286).png…]()
 
