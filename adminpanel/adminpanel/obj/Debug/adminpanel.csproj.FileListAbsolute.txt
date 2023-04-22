@@ -1,0 +1,17 @@
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\uaDB.mdf
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\uaDB_log.ldf
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\adminpanel.exe.config
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\adminpanel.exe
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\adminpanel.pdb
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.frm_Add_User_Admin.resources
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.frm_login.resources
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.frm_Home.resources
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.Properties.Resources.resources
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.exe
+C:\Users\HP\Desktop\adminpanel\adminpanel\obj\Debug\adminpanel.pdb
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\Database1.mdf
+C:\Users\HP\Desktop\adminpanel\adminpanel\bin\Debug\Database1_log.ldf
